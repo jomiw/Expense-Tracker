@@ -75,21 +75,3 @@ Expense-Tracker/
 │
 └── README.md
 ```
-
-**Note:** The SQLite database is created automatically when the application runs for the first time. Keep `searchicon.png` in the same directory as `expense_tracker.py`.
-
-## Supported Payment Methods
-
-- Cash
-- Cheque
-- Credit Card
-- Debit Card
-- UPI
-- Paytm
-- Google Pay
-- PhonePe
-- Razorpay
-
-## Platform Compatibility
-
-The application is designed for desktop use. The calculator feature uses Windows Calculator (`calc.exe`), so that feature is Windows-specific.
