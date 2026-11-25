@@ -93,10 +93,3 @@ Expense-Tracker/
 ## Platform Compatibility
 
 The application is designed for desktop use. The calculator feature uses Windows Calculator (`calc.exe`), so that feature is Windows-specific.
-
-## Future Improvements
-
-- Expense categories
-- Advanced spending reports
-- Export expenses to CSV or Excel
-- Improved input validation
