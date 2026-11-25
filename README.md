@@ -39,7 +39,7 @@ A desktop-based Expense Tracker application built using Python and Tkinter. It a
 1. Clone this repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/jomiw/Expense-Tracker.git
    ```
 
 2. Navigate to the project directory:
